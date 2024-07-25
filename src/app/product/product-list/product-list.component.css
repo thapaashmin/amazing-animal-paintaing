@@ -8,3 +8,7 @@ mat-card:hover{
 mat-card {
     transition: transform .3s;
 }
+
+.sort-dropdown{
+    margin-left: 20px;
+}
